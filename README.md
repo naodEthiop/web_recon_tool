@@ -62,12 +62,9 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License.
 
 ## Author
-Coded by: [Naod-Ethiop ](https://github.com/yourusername)
+Coded by: [Naod-Ethiop ](https://github.com/naodEthiop)
 Email: fkremariamfentahun66@gmail.com
 Telegram: @naod2i
-Coded by: [YNEBEB DAGNE ](https://GitHub.com/Yina6269)
-Email:temasgen201@gmail.com
-Telegram: @Hennok_zeelias
 
 
 
